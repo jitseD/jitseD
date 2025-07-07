@@ -23,10 +23,12 @@ I’m a frontend developer with a background in Digital Design and Development, 
 
 ## Learn More About My Work
 
-- 🌐 [My Portfolio](https://jitsedekeyser.be)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jitsedekeyser)
-- 🔗 [Instagram](https://www.instagram.com/dekeyser_designs/)
-- 🔗 [Behance](https://www.behance.net/jitsedekeyser)
+- 🌐 Portfolio: [jitsedekeyser.be](https://jitsedekeyser.be)  
+- 💼 LinkedIn: [linkedin.com/in/jitsedekeyser](https://www.linkedin.com/in/jitsedekeyser)  
+- 🎨 Instagram: [@dekeyser_designs](https://www.instagram.com/dekeyser_designs/)  
+- 🖌️ Behance: [behance.net/jitsedekeyser](https://www.behance.net/jitsedekeyser)
+
+📄 [Download my CV](https://github.com/jitseD/jitseD/raw/main/cv.pdf)
 
 <!--
 **jitseD/jitseD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
