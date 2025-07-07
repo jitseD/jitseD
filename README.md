@@ -21,10 +21,12 @@ I’m a frontend developer with a background in Digital Design and Development, 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitseD&layout=compact&theme=dark)
 
-## Connect with me
+## Learn More About Me
 
-- 🌐 [Website](https://jitsedekeyser.be)  
+- 🌐 [My Portfolio](https://jitsedekeyser.be)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jitsedekeyser)
+- 🔗 [Behance](https://www.behance.net/jitsedekeyser)
+- 🔗 [Design Instagram](https://www.instagram.com/dekeyser_designs/)
 
 <!--
 **jitseD/jitseD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
