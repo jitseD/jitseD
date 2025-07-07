@@ -25,8 +25,8 @@ I’m a frontend developer with a background in Digital Design and Development, 
 
 - 🌐 [My Portfolio](https://jitsedekeyser.be)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jitsedekeyser)
-- 🔗 [Behance](https://www.behance.net/jitsedekeyser)
 - 🔗 [Instagram](https://www.instagram.com/dekeyser_designs/)
+- 🔗 [Behance](https://www.behance.net/jitsedekeyser)
 
 <!--
 **jitseD/jitseD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
