@@ -45,7 +45,7 @@ Contributed to the design and development of the frontend for a new educational 
 ## Learn More About My Work
 
 - 🌐 Portfolio: [jitsedekeyser.be](https://jitsedekeyser.be)  
-- 💼 LinkedIn: [linkedin.com/in/jitsedekeyser](https://www.linkedin.com/in/jitsedekeyser)  
+- 💼 LinkedIn: [linkedin.com/in/jitsedekeyser](https://www.linkedin.com/in/jitse-dekeyser-92977529b/)  
 - 🎨 Instagram: [@dekeyser_designs](https://www.instagram.com/dekeyser_designs/)  
 - 🖌️ Behance: [behance.net/jitsedekeyser](https://www.behance.net/jitsedekeyser)
 
