@@ -39,7 +39,7 @@ Expanded my IT knowledge and gained a broader perspective on the tech industry t
 Worked on real-world projects in a team environment. Gained hands-on experience with modern frontend tools, CMS platforms, and iterative client feedback.
 
 **Frontend Development Student Job**  
-*Edu-Tech, Leuven — Jun ’25*  
+*Edu-Tech, Leuven — Jun ’25 && Sept '25*  
 Contributed to the design and development of the frontend for a new educational platform.
 
 ## Learn More About My Work
