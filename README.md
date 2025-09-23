@@ -25,21 +25,21 @@ I’m a frontend developer with a background in Digital Design and Development, 
 ## Studies
 
 **Bachelor’s Degree in Digital Design and Development**  
-*Howest, Kortrijk, Belgium — Sept ’22 – Jun ’25*  
+📍 *Howest, Kortrijk, Belgium* — 🗓️ *Sept ’22 – Jun ’25*  
 Combined design, development, and user-centered thinking to create interactive digital experiences.
 
 **IT Exchange Semester**  
-*USN, Hønefoss, Norway — Aug ’24 – Dec ’24*  
+📍 *USN, Hønefoss, Norway* — 🗓️ *Aug ’24 – Dec ’24*  
 Expanded my IT knowledge and gained a broader perspective on the tech industry through international study.
 
 ## Work Experience
 
 **Frontend Development Intern**  
-*Antenna, Ghent — Feb ’25 – May ’25*  
+📍 *Antenna, Ghent* — 🗓️ *Feb ’25 – May ’25*  
 Worked on real-world projects in a team environment. Gained hands-on experience with modern frontend tools, CMS platforms, and iterative client feedback.
 
 **Frontend Development Student Job**  
-*Edu-Tech, Leuven — Jun ’25 && Sept '25*  
+📍 *Edu-Tech, Leuven* — 🗓️ *Jun ’25 && Sept '25*  
 Contributed to the design and development of the frontend for a new educational platform.
 
 ## Learn More About My Work
