@@ -42,6 +42,20 @@ Worked on real-world projects in a team environment. Gained hands-on experience 
 📍 *Edu-Tech, Leuven* — 🗓️ *Jun ’25 && Sept '25*  
 Contributed to the design and development of the frontend for a new educational platform.
 
+## References
+
+**Mathieu Delporte**  
+💼 *Development Lead & Internship Mentor @ Antenna*  
+mathieu@weareantenna.be
+
+**Mina Jaiden**  
+💼 *Account Manager & Digitaal Strateeg @ Antenna*  
+mina@weareantenna.be
+
+**Pieter Van Peteghem**  
+💼 *CEO & Creative Director @ Antenna*  
+pieter@weareantenna.be
+
 ## Learn More About My Work
 
 - 🌐 Portfolio: [jitsedekeyser.be](https://jitsedekeyser.be)  
