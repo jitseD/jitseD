@@ -9,7 +9,6 @@ I’m a frontend developer with a background in Digital Design and Development, 
 - 💼 Completed a 14-week internship at Antenna in Ghent  
 - 💻 Passionate about frontend development, UI/UX design, and continuous learning  
 - 🎨 Focused on clean design, smooth interactions, and user-centered solutions  
-- 🔍 Currently open to junior frontend opportunities
 
 ## Skills
 
@@ -41,20 +40,6 @@ Worked on real-world projects in a team environment. Gained hands-on experience 
 **Frontend Development Student Job**  
 📍 *Edu-Tech, Leuven* — 🗓️ *Jun ’25 && Sept '25*  
 Contributed to the design and development of the frontend for a new educational platform.
-
-## References
-
-**Mathieu Delporte**  
-💼 *Development Lead & Internship Mentor @ Antenna*  
-mathieu@weareantenna.be
-
-**Mina Jaiden**  
-💼 *Account Manager & Digitaal Strateeg @ Antenna*  
-mina@weareantenna.be
-
-**Pieter Van Peteghem**  
-💼 *CEO & Creative Director @ Antenna*  
-pieter@weareantenna.be
 
 ## Learn More About My Work
 
